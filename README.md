@@ -7,3 +7,6 @@ Admin Can register Admin can add user he can view user he can edit/delete users 
 60% work is done because i had lotof office works, so i got limited amount of time and t took time for oath login but it didn't work
 
 pending things: 1 printing Exception Messages 2>Testing 3>Secured login
+#Here i have used Spring,Mysql,JSP
+to develop this application
+
